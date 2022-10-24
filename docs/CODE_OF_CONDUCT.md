@@ -1,50 +1,50 @@
 # Contributor Code of Conduct
 
-As contributors and maintainers of this project, and in the interest of
-fostering an open and welcoming community, we pledge to respect all people who
-contribute through reporting issues, posting feature requests, updating
-documentation, submitting pull requests or patches, and other activities.
+Bu projeye katkıda bulunanlar olarak, açık ve misafirperver bir topluluğu
+teşvik etmek adına, sorunları bildirerek, PR göndererek ve diğer faaliyetller
+yoluyla katkıda bulunan herkese saygı göstermeyi taahhüt ediyoruz.
 
-We are committed to making participation in this project a harassment-free
-experience for everyone, regardless of the level of experience, gender, gender
-identity and expression, sexual orientation, disability, personal appearance,
-body size, race, ethnicity, age, religion, or nationality.
+Bu projeye katkı sağlamayı deneyim düzeyi, cinsiyet, cinsel kimlik ve ifade,
+cinsel yönelim, engellilik, kişisel görünüm, vücut ölçüsü, ırk, etnik köken,
+yaş, din veya milliyet gözetmeksizin herkes için yargısız, açık bir durum
+haline getirmeye adandık.
 
-Examples of unacceptable behavior by participants include:
+Katılımcıların kabul edilemeyecek davranışları şunlardır:
 
-* The use of sexualized language or imagery
-* Personal attacks
-* Trolling or insulting/derogatory comments
-* Public or private harassment
-* Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
-* Other unethical or unprofessional conduct
+* Cinselleştirilmiş dil veya görüntü kullanımı
+* Kişisel saldırılar
+* Trolleme veya hakaret/aşağılayıcı yorumlar
+* Kamusal veya özel taciz
+* Fiziksel veya özel adresler gibi başkalarının özel bilgilerini
+açık izin olmadan yayınlamak
+* Diğer etik olmayan veya profesyonel olmayan davranışlar
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-By adopting this Code of Conduct, project maintainers commit themselves to
-fairly and consistently applying these principles to every aspect of managing
-this project. Project maintainers who do not follow or enforce the Code of
-Conduct may be permanently removed from the project team.
-
-This code of conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community.
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting a project maintainer at victorfelder at gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. Maintainers are
-obligated to maintain confidentiality with regard to the reporter of an
-incident.
+Proje yürütücüleri, bu Davranış Kuralları ile uyumlu olmayan yorumları,
+taahhütleri, kodlamayı, wiki düzenlemelerini, sorunları ve diğer katkıları
+kaldırma, düzenleme veya reddetme, veya herhangi bir katkıda bulunanları
+geçici veya kalıcı olarak yasaklama hak sorumluluğuna sahiptir. Bu durumu
+uygunsuz, tehditkar, saldırgan veya zararlı olarak görürler.
 
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.3.0, available at https://contributor-covenant.org/version/1/3/0/
+Proje yürütücüleri, bu Davranış Kurallarını benimseyerek, bu ilkeleri
+bu projeyi yönetmenin her yönüne adil ve tutarlı bir şekilde uygulamayı
+taahhüt ederler. Davranış Kurallarına uymayan veya uygulamayan proje sahipleri,
+proje ekibinden kalıcı olarak çıkarılabilir.
 
-[homepage]: https://contributor-covenant.org
+Bu davranış kuralları, hem proje alanlarında hem de bir kişi projeyi veya
+topluluğunu temsil ettiğinde kamusal alanlarda geçerlidir.
 
-[Translations](README.md#translations)
+Taciz edici, taciz edici veya başka türlü kabul edilemez davranış örnekleri,
+victorfelder at gmail.com adresindeki bir proje yürütücüsüyle iletişime geçilerek
+bildirilebilir. Tüm şikayetler incelenecek ve soruşturulacakve gerekli ve
+koşullara uygun görülen bir yanıtla sonuçlanacaktır. Bakım görevlileri,
+bir olayı bildiren kişiyle ilgili olarak gizliliği korumakla yükümlüdür.
+
+
+
+Bu Davranış Kuralları şuradan uyarlanmıştır: [Contributor Covenant][homepage],
+versiyon 1.3.0, bu adreste bulunabilir: https://contributor-covenant.org/version/1/3/0/
+
+[Anasayfa]: https://contributor-covenant.org
+
+[Çeviriler](README.md#translations)
